@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@freecodecamp/example@1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@freecodecamp/example/-/example-1.1.0.tgz#f4ca77ca3e9505248278c1b9579d8a16d3690ddb"
+  integrity sha512-prU1lqFczSRXR/BsxLKHR2rQjYG5f+W13Iltf5uLK3iAOKgOuYxZ1cJSppzjhK82IpbM5MmhszoJIfR1q/pwPQ==
+
 accepts@~1.3.8:
   version "1.3.8"
   resolved "https://registry.yarnpkg.com/accepts/-/accepts-1.3.8.tgz#0bf0be125b67014adcb0b0921e62db7bffe16b2e"
